@@ -17,7 +17,7 @@ DESCRIPTION = 'Pypi processing method.'
 URL = 'https://github.com/tuutb/tuutbaron'
 EMAIL = '641210410@qq.com'
 AUTHOR = 'Tuutb Aron'
-REQUIRES_PYTHON = '>=3.6.0'
+REQUIRES_PYTHON = '>=3.8.0'
 VERSION = '0.1.0'
 
 # What packages are required for this module to be executed?
